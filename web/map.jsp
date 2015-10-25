@@ -1,3 +1,11 @@
+<%-- 
+    Document   : map
+    Created on : 25 Oct, 2015, 10:57:56 PM
+    Author     : vasu jain
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
